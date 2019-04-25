@@ -5,13 +5,13 @@ html, body
     padding:0;
 }
 
-div {
+iframe {
     position:relative;
     height: 100%;
     width:100%;
 }
 
-div img {
+iframe {
     position:absolute;
     top:0;
     left:0;
@@ -19,3 +19,5 @@ div img {
     bottom:0;
     margin:auto;
 }
+
+
